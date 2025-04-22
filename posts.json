@@ -1,6 +1,14 @@
 [
     {
         "username": "admin",
+        "message": "Bob the builder is bomb"
+    },
+    {
+        "username": "admin",
+        "message": "Happy Monday!"
+    },
+    {
+        "username": "admin",
         "message": "Welcome to Banterbird!"
     },
     {
